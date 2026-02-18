@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://quickstart.wronka.top/</loc>
+    <lastmod>2026-02-18T11:53:50+01:00</lastmod>
+  </url><url>
+    <loc>https://quickstart.wronka.top/posts/my-second-post/</loc>
+    <lastmod>2026-02-18T11:53:50+01:00</lastmod>
+  </url><url>
+    <loc>https://quickstart.wronka.top/posts/</loc>
+    <lastmod>2026-02-18T11:53:50+01:00</lastmod>
+  </url><url>
+    <loc>https://quickstart.wronka.top/posts/my-first-post/</loc>
+    <lastmod>2026-02-18T11:44:21+01:00</lastmod>
+  </url><url>
+    <loc>https://quickstart.wronka.top/categories/</loc>
+  </url><url>
+    <loc>https://quickstart.wronka.top/tags/</loc>
+  </url>
+</urlset>
